@@ -1,0 +1,15 @@
+Wed, Aug 29th 2007
+------------------
+Katerchen/0.1.1
+* Configurable the IPs from which it is possible to relay messages.
+* Added support for SMTP extension: RFC 1870 - Message Size Declaration.
+
+Mon, Aug 27th 2007
+------------------
+Katerchen/0.1.0
+* The relay has been implemented.
+
+Sun, Aug 12th 2007
+------------------
+Katerchen/0.0.1
+First release.

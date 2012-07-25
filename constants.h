@@ -1,0 +1,14 @@
+#ifndef CONSTANTS_H
+#define CONSTANTS_H
+
+#define LOCAL_PART_MAXLEN 64
+#define DOMAIN_MAXLEN     255
+#define PATH_MAXLEN       256
+
+#define MAX_RECIPIENTS    100
+#define MAX_MESSAGE_SIZE  (100 * 1024 * 1024)
+#define MAX_TRANSACTIONS  100
+
+#define TEXT_LINE_MAXLEN  1024
+
+#endif /* CONSTANTS_H */
